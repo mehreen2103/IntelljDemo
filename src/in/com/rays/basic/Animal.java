@@ -1,4 +1,4 @@
-package in.co.rays.basic;
+package in.com.rays.basic;
 
 public class Animal {
     String name;

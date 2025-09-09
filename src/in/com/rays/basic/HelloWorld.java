@@ -1,4 +1,4 @@
-package in.co.rays.basic;
+package in.com.rays.basic;
 
 public class HelloWorld {
     public static void main(String[] args) {
